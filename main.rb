@@ -742,6 +742,7 @@ class JanelaPrincipal < Gosu::Window
 			detecta_colisoes_entidades
 			verifica_level
 		end
+		sleep(0.008)
 	end
   
 	def draw

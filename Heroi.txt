@@ -1,0 +1,1 @@
+#<Heroi:0x00000001330a58 @px=411, @py=825, @pz=0, @img=#<Gosu::Image:0x00000001330c88 @__swigtype__="_p_Gosu__Image">, @vida=1575, @ammo=215, @exp=252, @dano_municao=14, @level=2, @max_vida_level=1575, @exp_level_atual=210>
